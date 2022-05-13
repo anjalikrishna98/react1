@@ -12,7 +12,7 @@ function App() {
             <input type="text" className="form-control"/>
         </div>
         <div className="col col-10 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-            <label for="" classNameName="form-label">Password</label>
+            <label for="" className="form-label">Password</label>
             <input type="text" className="form-control"/>
         </div>
         <div className="col col-10 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
